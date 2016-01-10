@@ -1,0 +1,76 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 14px;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+}
+
+.navbar-brand {
+  color: #5a5a5a;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  color: #21F291;
+}
+
+h1 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 48px;
+}
+
+h2 {
+  font-family: 'Roboto Slab', serif;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Roboto Slab', serif;
+  text-align: center;
+}
+
+p {
+  padding-top: 10px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+
+#header {
+  padding-top: 90px;
+  padding-bottom: 50px;
+  text-align: center;
+  background-color: #51289c;
+  color: #fff;
+}
+
+#about {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  background-color: #b49fd8;
+  color: #fff;
+}
+
+.col-md-4 {
+  padding-top: 20px;
+}
+
+#watch {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #d4c7e7;
+  color: #2a4747;
+}
+
+#devs {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #196096;
+  color: #fff;
+}
